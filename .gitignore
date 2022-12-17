@@ -1,2 +1,4 @@
 documents
 .idea
+__pycache__/
+test.documents
